@@ -1,0 +1,8 @@
+This project requires a latest version built-in webcam
+we can use external webcam, and it will work just fine
+
+you will have to create two folders in the default installation directory of the anaconda or what have you,
+in the following order
+faces->user                or
+faces/user                 or
+C:\Users\your_user_name\anaconda3\faces\user
